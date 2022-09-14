@@ -1,6 +1,6 @@
 ## Puppies API with Typescript
 
-RESTful API with the following endpoints:
+Here, I am creating a RESTful API with the following endpoints:
 
 - GET: `api/puppies`. return a list of all puppies in JSON-format.
 - GET: `api/puppies/:id`. return one puppy in JSON-format.
